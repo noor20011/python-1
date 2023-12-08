@@ -1,0 +1,268 @@
+[
+    {
+      "question": "In C, parameters are always?",
+      "options": [
+        "A. Passed by value",
+        "B. Passed by reference",
+        "C. Non-pointer variables are passed by value and pointers are passed by reference",
+        "D. Passed by value result"
+      ],
+      "answer": "A. Passed by value"
+    },
+    {
+      "question": "Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?",
+      "options": [
+        "A. Insertion Sort",
+        "B. Quick Sort",
+        "C. Heap Sort",
+        "D. Merge Sort"
+      ],
+      "answer": "D. Merge Sort"
+    },
+    {
+      "question": "Which of the following is the limitation of the array?",
+      "options": [
+          "A. Elements can be accessed from anywhere.", 
+          "B. The size of the array is fixed.", 
+          "C. Indexing is started from Zero.", 
+          "D. Memory waste if an array's elements are smaller than the size allotted to them"
+      ],
+      "answer": "D. Memory waste if an array's elements are smaller than the size allotted to them"
+    },
+    {
+      "question": "Which of the following cannot generate the full binary tree?",
+      "options": [
+          "A. Inorder and Preorder", 
+          "B. Inorder and Postorder", 
+          "C. Preorder and Postorder", 
+          "D. None of the above"
+      ],
+      "answer": "D. None of the above"
+    },
+    {
+      "question": "Which one among the following radiations carries maximum energy?",
+      "options": [
+        "A. Ultraviolet rays",
+        "B. Gamma rays",
+        "C. X- rays",
+        "D. Infra-red rays"
+      ],
+      "answer": "B. Gamma rays"
+    },
+    {
+      "question": "The head quarters of world trade organization is in?",
+      "options": [
+        "A. Montreal",
+        "B. Seattle",
+        "C. Geneva",
+        "D. None of the above"
+      ],
+      "answer": "C. Geneva"
+    },
+    {
+      "question": "The language spoken by the people by Pakistan is ?",
+      "options": ["A. Hindi", "B. Nepali", "C. English", "D. Sindhi"],
+      "answer": "D. Sindhi"
+    },
+    {
+      "question": "Which of the following requires a device driver?",
+      "options": [
+        "A. Register",
+        "B. Cache",
+        "C. Main memory",
+        "D. Disk"
+      ],
+      "answer": "D. Disk"
+    },
+    {
+      "question": "'LIBRA' an alternative of existing cryptocurrency like bitcoin is being developed by?",
+      "options": [
+        "A. Facebook",
+        "B. Google",
+        "C. Microsoft",
+        "D. None of the above"
+      ],
+      "answer": "A. Facebook"
+    },
+    {
+      "question": "Which of the followings is/are automatically added to every class, if we do not write our own?",
+      "options": [
+        "A. Copy Constructor",
+        "B. Assignment Operator",
+        "C. A constructor without any parameter",
+        "D.  All the above"
+      ],
+      "answer": "D.  All the above"
+    },
+    {
+      "question": "Headquater of International Olympic Committee is situated at?",
+      "options": ["A. Athens", "B. Lausanne", "C. Dubai", "D. None of the above"],
+      "answer": "B. Lausanne"
+    },
+    {
+      "question": "When the inheritance is private, the private methods in base class are __________ in the derived class (in C++)?",
+      "options": [
+        "A. inaccessible",
+        "B. accessible",
+        "C. protected",
+        "D. public"
+      ],
+      "answer": "A. inaccessible"
+    },
+    {
+      "question": "The metal whose salts are sensitive to light is?",
+      "options": ["A. Silver", "B. Zinc", "C. Copper", "D. Gold"],
+      "answer": "A. Silver"
+    },
+    {
+      "question": "Who is the father of geometry?",
+      "options": ["A. Aristotle", "B. Euclid", "C. Pythagoras", "D. Kepler"],
+      "answer": "B. Euclid"
+    },
+    {
+      "question": "What is called when a function is defined inside a class?",
+      "options": [
+        "A. Module",
+        "B. Class",
+        "C. Another Function",
+        "D. Method"
+      ],
+      "answer": "D. Method"
+    },
+    {
+      "question": "Which of the following is the use of id() function in python?",
+      "options": [
+        "A. Id returns the identity of the object",
+        "B. Every object doesn’t have a unique id",
+        "C. All of the mentioned",
+        "D. None of the mentioned"
+      ],
+      "answer": "B. Every object doesn’t have a unique id"
+    },
+    {
+      "question": "Who is the father of geometry?",
+      "options": ["A. Aristotle", "B. Euclid", "C. Pythagoras", "D. Kepler"],
+      "answer": "B. Euclid"
+    },
+    {
+      "question": "Which of the following operator functions cannot be global, i.e., must be a member function?",
+      "options": [
+          "A. new", 
+          "B. delete", 
+          "C. Converstion Operator", 
+          "D. All of the above"
+      ],
+      "answer": "C. Converstion Operator"
+    },
+    {
+      "question": "Who is the current chief of the world bank group?",
+      "options": [
+        "A. Donald Tusk",
+        "B. David Malpass",
+        "C. Christine Lagarde",
+        "D. Jim Yong Kim"
+      ],
+      "answer": "B. David Malpass"
+    },
+    {
+      "question": "When was Second World War started?",
+      "options": [
+        "A. September 1, 1939",
+        "B. September 1, 1940",
+        "C. September 1, 1945",
+        "D. September 1, 1942"
+      ],
+      "answer": "A. September 1, 1939"
+    },
+    {
+      "question": "Each year World Red Cross and Red Crescent Day is celebrated on?",
+      "options": ["A. May 8", "B. May 18", "C. June 8", "D. June 19"],
+      "answer": "A. May 8"
+    },
+    {
+      "question": "The brain fever which affects young children is?",
+      "options": ["A. Malaria", "B. Typhoid", "C. Encephalitis", "D. Pneumonia"],
+      "answer": "C. Encephalitis"
+    },
+    {
+      "question": "Which is the first search engine of the internet?",
+      "options": ["A. Yahoo", "B. Wais", "C. Archie", "D. Mozilla"],
+      "answer": "C. Archie"
+    },
+    {
+      "question": "In a Database Management System(DBMS) the content and the location of data is identified by ?",
+      "options": [
+        "A. Subdata",
+        "B. Sequence Data",
+        "C. Beta Data",
+        "D. Meta Data"
+      ],
+      "answer": "D. Meta Data"
+    },
+    {
+      "question": "'.MOV' extensions refer to which kind of file?",
+      "options": [
+        "A. Image file",
+        "B. Movie File",
+        "C. Audio File",
+        "D. ZIP File"
+      ],
+      "answer": "B. Movie File"
+    },
+    {
+      "question": "Who wrote the famous poem 'The Charge of the Light Brigade'?",
+      "options": [
+        "A. Lord Alfred Tennyson",
+        "B. Christopher Marlowe",
+        "C. Johannes Gutenberg",
+        "D. Rene Descartes"
+      ],
+      "answer": "A. Lord Alfred Tennyson"
+    },
+    {
+      "question": "Who founded Indian National Army(INA)?",
+      "options": [
+        "A. Netaji Subhas Chandra Bose",
+        "B. Mohan Singh",
+        "C. Rash Behari Bose",
+        "D. Jatridranath Mukherjee"
+      ],
+      "answer": "B. Mohan Singh"
+    },
+    {
+      "question": "The control of which state was handed over to british after marriage of King Charles 2 with portuguese princess in 1661?",
+      "options": ["A. Cochin", "B. Bombay", "C. Surat", "D. Madras"],
+      "answer": "B. Bombay"
+    },
+    {
+      "question": " Country that has the highest in Barley Production ?",
+      "options": ["A. China", "B. India", "C. Russia", "D. France"],
+      "answer": "C. Russia"
+    },
+    {
+      "question": "The World Largest desert is ?",
+      "options": ["A. Thar", "B. Kalahari", "C. Sahara", "D. Sonoran"],
+      "answer": "C. Sahara"
+    },
+    {
+      "question": "Guru Gopi Krishna is popular for which form of Indian dance?",
+      "options": ["A. Bharatanatyam", "B. Kuchipudi", "C. Kathak", "D. Manipuri"],
+      "answer": "B. Kuchipudi"
+    },
+    {
+      "question": "J.B. Dunlop is popular for which of the following inventions?",
+      "options": [
+        "A. Model airplanes",
+        "B. Pneumatic rubber tire",
+        "C. Rubber boot",
+        "D. Automobile wheel rim"
+      ],
+      "answer": "B. Pneumatic rubber tire"
+    },
+    {
+      "question": "Who built this project ?",
+      "options": ["Aman", "Nutan", "Shyam", "Ram"],
+      "answer": "Aman"
+    }
+  ]
+  
